@@ -1,0 +1,6 @@
+.terraform
+lambdas/dist
+
+.env
+
+.terraform.lock.hcl
